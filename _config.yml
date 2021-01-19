@@ -2,7 +2,7 @@
 # This file contains configuration flags to customize your site
 #
 
-theme: wowthemesnet/mediumish
+remote_theme: wowthemesnet/mediumish
 # Name of your site (displayed in the header)
 name: Abigail Cruz
 
